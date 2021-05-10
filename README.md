@@ -11,6 +11,7 @@ Rodenburg F.J. (2021). Elements of Biostatistics
 
 A BibTeX entry for LaTeX users is:
 
+```
 @Manual{,
   title = {Introduction to Biostatistics},
   author = {Frans Rodenburg},
@@ -28,3 +29,4 @@ A BibTeX entry for LaTeX users is:
   year = {2021},
   url = {https://github.com/FransRodenburg/Biostatistics-Book-Series},
 }
+```
