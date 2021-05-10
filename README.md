@@ -12,7 +12,7 @@ Please cite the books as follows:
 A BibTeX entry for LaTeX users is:
 
 ```
-@Manual{,
+@Book{,
   title = {Introduction to Biostatistics},
   author = {Frans Rodenburg},
   organization = {Leiden University},
@@ -21,7 +21,7 @@ A BibTeX entry for LaTeX users is:
   url = {https://github.com/FransRodenburg/Biostatistics-Book-Series},
 }
 
-@Manual{,
+@Book{,
   title = {Elements of Biostatistics},
   author = {Frans Rodenburg},
   organization = {Leiden University},
