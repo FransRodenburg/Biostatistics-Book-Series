@@ -6,8 +6,8 @@ Currently only available in PDF form. You are free to view and download the book
 
 Please cite the books as follows:
 
-Rodenburg F.J. (2020). Introduction to Biostatistics
-Rodenburg F.J. (2021). Elements of Biostatistics
+* Rodenburg F.J. (2020). Introduction to Biostatistics
+* Rodenburg F.J. (2021). Elements of Biostatistics
 
 A BibTeX entry for LaTeX users is:
 
